@@ -11,5 +11,12 @@ E com os frameworks:
 <li>Laravel</li>
 <li>Bootstrap</li>
 
-## Codepen
+# Páginas
+### Parallax Css (multicamadas)
+https://tahcosta.github.io/parallax/
+
+### Página Adoce Seu dia
+https://tahcosta.github.io/adocesite/
+
+### Codepen
 https://codepen.io/TahCosta
