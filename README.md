@@ -21,5 +21,8 @@ https://tahcosta.github.io/parallax/
 ### Página Adoce Seu dia
 https://tahcosta.github.io/adocesite/
 
+### Site Pennacorp
+https://www.pennacorp.com.br/
+
 ### Codepen
 https://codepen.io/TahCosta
