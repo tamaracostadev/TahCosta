@@ -1,4 +1,4 @@
-Olá! Eu sou a Tamara, graduanda em ciências da computação pela UFABC e atualmente dev junior fullstack.  
+Olá! Eu sou a Tamara, graduanda em ciências da computação pela UFABC e atualmente dev pleno fullstack.  
 
 Tenho interesse em programação full stack e atualmente estou estudando Laravel e Javascript.
 Tenho conhecimentos nas linguagens:
