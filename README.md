@@ -16,10 +16,10 @@ E com os frameworks/bibliotecas:
 # Páginas e Sistemas
 
 ### Parallax Css (multicamadas)
-https://tahcosta.github.io/parallax/
+https://tamaracostadev.github.io/parallax/
 
 ### Página Adoce Seu dia
-https://tahcosta.github.io/adocesite/
+https://tamaracostadev.github.io/adocesite/
 
 ### Site Pennacorp
 https://www.pennacorp.com.br/
