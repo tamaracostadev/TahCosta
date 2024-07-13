@@ -8,10 +8,12 @@ Tenho conhecimentos nas linguagens:
 <li>Html</li>
 <li>Css</li>
 E com os frameworks/bibliotecas:
-<li>Laravel 8</li>
+<li>Laravel</li>
 <li>Jquery</li>
 <li>Bootstrap</li>
 <li>Semantic</li>
+<li>Vuejs</li>
+<li>Nuxtjs</li>
 
 # Páginas e Sistemas
 
